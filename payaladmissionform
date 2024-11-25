@@ -1,0 +1,309 @@
+class admissiontest:
+    def __init__(self,welcome,enter):
+        self.welcome=welcome
+        welcome =" Hello Everyone.
+        This is the welcome page of Payal Coaching Center's Admission Form.
+        click enter to go to the menu."
+        enter = self.enter
+        enter = input("enter")
+        pass
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admissiontest</title>
+
+    
+</head>
+<body>
+    def __init__(self,welcome,enter):
+    self.welcome=welcome
+    welcome =" Hello Everyone.
+    This is the welcome page of Payal Coaching Center's Admission Form.
+    click enter to go to the menu."
+    enter = self.enter
+    enter = input("enter")
+    pass
+    
+</body>
+</html>
+
+
+.class admissiontest{
+    border-color: black;
+    color:green;
+    letter-spacing: text-decoration: width: auto;;
+    text-color::view-transition-new
+
+    
+}
+.enter{
+    text-decoration-style: animation: Enter To Register;;
+    text:hover
+
+    text-color::view-transition-new
+}
+class Menu:
+    def form(self,name,age,group,registrationno,parentsreference):
+        self.name= name
+        name= input()
+        if self.name == True:
+            print("Go to the next field")
+        else:
+            return Menu
+        self.age = age
+        age = int(input())
+        if self.age ==True:
+            print("Go to the next field")
+        else:
+            return Menu
+        self.group= group
+        group = input()
+        if self.group==True:
+            print("Go to the next field")
+        else:
+            return Menu
+        self.registrationno = registrationno
+        registrationno= int(input())
+        if self.registrationno==True:
+            print("Go to the next field")
+        else:
+            return Menu
+        self.parentsreference = parentsreference
+        parentsreference= list[1,2]
+        parentsreference = int(input())
+        parentsreference = input()
+        if self.parentsreference==list:
+            print("Go to the next field")
+        else:
+            return Menu
+        
+
+        
+###form= Menu(Your name,age and other info)
+###print(Menu)
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+</head>
+<body>
+    class Menu:
+    def form(self,name,age,group,registrationno,parentsreference):
+    self.name= name
+    name= input()
+    if self.name == True:
+        print("Go to the next field")
+    else:
+        return Menu
+    self.age = age
+    age = int(input())
+    if self.age ==True:
+        print("Go to the next field")
+    else:
+        return Menu
+    self.group= group
+    group = input()
+    if self.group==True:
+        print("Go to the next field")
+    else:
+        return Menu
+    self.registrationno = registrationno
+    registrationno= int(input())
+    if self.registrationno==True:
+        print("Go to the next field")
+    else:
+        return Menu
+    self.parentsreference = parentsreference
+    parentsreference= list[1,2]
+    parentsreference = int(input())
+    parentsreference = input()
+    if self.parentsreference==list:
+        print("Go to the next field")
+    else:
+        return Menu
+    
+    
+</body>
+</html>
+
+
+
+.class Menu{
+    background-origin: padding-box;
+    border-style: justify-content: center;;
+    text ::-webkit-meter-suboptimum-value
+    text-color ::view-transition-new
+    color: green;
+
+}
+.age{
+    color:green
+    background:tomato
+    border-style:seagreen
+    text-color:color-mix(in xyz-d65, green 80, green 80)
+}
+.group{
+    color-interpolation-filters: flex-direction: row;;
+    border:hover
+    background:vertical
+    border-style::-webkit-slider-runnable-track
+    text-color::view-transition-new
+    color: ::view-transition-new
+}
+.reference{
+     color:green
+    background:tomato
+    border-style:seagreen
+    text-color:color-mix(in xyz-d65, green 80, green 80)
+        background: vertical 
+        border-style::-webkit-slider-runnable-track 
+        text-color::view-transition-new 
+        color:::view-transition-new
+        }
+
+
+
+class Subsection:
+    def subsections():
+        def __init__(self,Photo,format,captionno,nationalidno,admissionpreference):
+            self.Photo = Photo
+            Photo == ("#caption&format")
+            captionno = Photo
+            captionno =int(input())
+            format= input()
+            Photo= captionno+format
+            if self.Photo== Photo:
+                print("Identification Done")
+            else:
+                return Photo
+            self.nationalidno= nationalidno
+            nationalidno= int(input().split())
+            if self.nationalidno == True:
+                print("Request Done")
+            elif self.nationalidno == False:
+                return Photo
+                if Photo== True:
+                    print("Verify Again") 
+                else:
+                    return Subsection
+            self.admissionpreference= admissionpreference
+            admissionpreference1= "Science"
+            admissionpreference2= "Arts"
+            admissionpreference= admissionpreference1 + admissionpreference2 
+            if self.admissionpreference == admissionpreference1:
+                print("Best wishes for choosing Science")
+            else:
+                print("Best wishes for choosing Arts") 
+
+
+## sub = Subsection("general info")
+# print(sub) 
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subsections</title>
+</head>
+<body>
+    class Subsection:
+    def subsections():
+    def __init__(self,Photo,format,captionno,nationalidno,admissionpreference):
+    self.Photo = Photo
+    Photo == ("#caption&format")
+    captionno = Photo
+    captionno =int(input())
+    format= input()
+    Photo= captionno+format
+    if self.Photo== Photo:
+        print("Identification Done")
+    else:
+        return Photo
+    self.nationalidno= nationalidno
+    nationalidno= int(input().split())
+    if self.nationalidno == True:
+        print("Request Done")
+    elif self.nationalidno == False:
+        return Photo
+    if Photo== True:
+        print("Verify Again")
+    else:
+        return Subsection
+    self.admissionpreference= admissionpreference
+    admissionpreference1= "Science"
+    admissionpreference2= "Arts"
+    admissionpreference= admissionpreference1 + admissionpreference2
+    if self.admissionpreference == admissionpreference1:
+        print("Best wishes for choosing Science")
+    else:
+        print("Best wishes for choosing Arts")
+    
+    
+
+</body>
+</html>
+
+
+
+
+.class subsection{
+    color: green 
+    background:tomato
+    text-decoration: hover
+    border-style:seagreen
+    text-color:color-mix(in xyz-d65, green 80, green 80) 
+    background: vertical 
+    border-style::-webkit-slider-runnable-track 
+    text-color::view-transition-new 
+    color:view-transition-new
+    }
+
+
+
+
+class Lastpage:
+    def Lastpage():
+        print("RegistrationDone")
+        print("Best wishes on choosing our coaching center as your priority")
+        print("Thank you. See you again.")
+        return admissiontest
+
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lastpage</title>
+</head>
+<body>
+    def Lastpage():
+        print("RegistrationDone")
+        print("Best wishes on choosing our coaching center as your priority")
+        print("Thank you. See you again.")
+        return admissiontest
+    
+</body>
+</html>
+
+
+
+
+.class lastpage{
+    scrollbar-highlight-color: green;
+    border: black
+    text :teal
+    text-border: black
+    letter-spacing: text-decoration: width: auto;;
+    text-color: :view-transition-new
+}
